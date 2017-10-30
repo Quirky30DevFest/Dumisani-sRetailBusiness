@@ -2,7 +2,7 @@
 Dumisani runs a retail shop in Maitland. he heard that you are doing web development and would like some help in terms of understanding consumer behaviour.
 
 ## He introduces you to his customers:
-[Queen](https://github.com/Quirky30DevFest/Dumisani-sRetailBusiness/files/1426784/Queen.pdf) and [Tony](https://github.com/Quirky30DevFest/Dumisani-sRetailBusiness/tree/master)
+[Queen](https://github.com/Quirky30DevFest/Dumisani-sRetailBusiness/files/1426784/Queen.pdf) and [Tony](https://github.com/Quirky30DevFest/Dumisani-sRetailBusiness/blob/master/Tony.md)
  
  Dumisani wants you to help him to improve the buying behaviour of his customers and also his purchasing decisions, so that he can reduce prices and have the right merchandise in stock to keep customers happy. First create a story map to clarify what you as coders need to do so that you can create a solution.
 
