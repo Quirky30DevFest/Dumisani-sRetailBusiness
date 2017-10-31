@@ -10,6 +10,8 @@ Dumisani wants to know what is trending: He needs to know what is the popular me
 * He wants to limit access to his shop data, he wants administrators to log in before they can use the system, he wants two different roles for authorised users. one role for customers who can only see sales reports and another role for an administrator that can do everything in the system.
 * He wants the navigation simpler: he wants his experience more seamless with less visible screen refreshes, wants to view all the other clothes list screen with a very smooth transition when searching for merchandise by merchandise name or category.
 
+[Your Tasks before this](https://github.com/Quirky30DevFest/Dumisani-sRetailBusiness/wiki)
+
 ### Dumisani wants to find out what is profitable
 
     : Dumisani wants to see the earnings per category & merchandise
