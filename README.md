@@ -32,10 +32,3 @@ Which days are the most profitable?
 ### Dumisani wants to see His stock info wherever He is
 
     : Dumisani wants to see the average sales figures on a web page.
-
-### Dumisani would like to have standard orders to simplify his admin
-
-Now that we know what we should be ordering, Dumisani think it would be great to have standard orders. For this we need to know which supplier we purchase each item from.
-
-    : Which supplier is supplying the most popular merchandise.
-    : Which supplier is supplying the most profitable merchandise.
