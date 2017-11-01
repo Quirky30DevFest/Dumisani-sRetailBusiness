@@ -6,9 +6,9 @@ Dumisani runs a retail shop in Maitland. he heard that you are doing web develop
  
  Dumisani wants you to help him to improve the buying behaviour of his customers and also his purchasing decisions, so that he can reduce prices and have the right merchandise in stock to keep customers happy. First create a story map to clarify what you as coders need to do so that you can create a solution.
 
-Dumisani wants to know what is trending: He needs to know what is the popular merchandise, least popular merchandise,Most and least merchandise categories. Infact Dumisani wants a OLX like web app for her busines so that all purchases be online. 
+Dumisani wants to know what is trending: He needs to know what is the popular merchandise, least popular merchandise,Most and least merchandise categories. Infact Dumisani wants a OLX like web app for his business so that all purchases be online. 
 * He wants to limit access to his shop data, he wants administrators to log in before they can use the system, he wants two different roles for authorised users. one role for customers who can only see sales reports and another role for an administrator that can do everything in the system.
-* He wants the navigation simpler: he wants his experience more seamless with less visible screen refreshes, wants to view all the other clothes list screen with a very smooth transition when searching for merchandise by merchandise name or category.
+* He wants the navigation simpler: he wants his experience more seamless with less visible screen refreshes, wants to view all the other merchandise list screen with a very smooth transition when searching for merchandise by merchandise name or category.
 
 [Your Tasks before this](https://github.com/Quirky30DevFest/Dumisani-sRetailBusiness/wiki)
 
